@@ -6,6 +6,7 @@ var peoples = {
     "编程部 - Python部": {
         "周小荻": "https://code.xueersi.com/space/19776819",
         "杨欣儒": "https://code.xueersi.com/space/16074710",
+        "学委路童": "https://code.xueersi.com/space/53250345"
     },
     "编程部 - C++部": {
         "空": "#",
