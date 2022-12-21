@@ -1,4 +1,4 @@
-peoples = {
+var peoples = {
     "编程部 - Scratch部": {
         "巩佳宁": "https://code.xueersi.com/space/19162616",
         "周小荻": "https://code.xueersi.com/space/19776819",
@@ -27,5 +27,20 @@ peoples = {
     },
     "成员": {
         "杨云骢": "https://code.xueersi.com/space/12502420",
+    }
+}
+
+var works = {
+    "C站生存法则": "https://code.xueersi.com/home/project/detail?lang=code&pid=39718713&version=python&form=python&langType=python",
+}
+
+var studios = {
+    "XHZ工作室": {
+        "室长": ["梁致玮", "https://code.xueersi.com/space/10495910"],
+        "他们的招人作品": ["XHZ工作室第114514次招人辣", "https://code.xueersi.com/home/project/detail?lang=code&pid=39746395&version=webpy&form=webpy&langType=webpy"],
+    },
+    "天山之巅工作室": {
+        "官方账号": ["孙国瑜", "https://code.xueersi.com/space/41073688"],
+        "他们的招人作品": ["天山之巅工作室第一期招聘", "https://code.xueersi.com/home/project/detail?lang=code&pid=39721435&version=webpy&form=webpy&langType=webpy"]
     }
 }
