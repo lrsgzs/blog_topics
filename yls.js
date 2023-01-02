@@ -19,6 +19,7 @@ var peoples = {
     },
     "编程部 - 改编部": {
         "覃恺阳": "https://code.xueersi.com/space/65456474",
+        "曾扬洋": "https://code.xueersi.com/space/66444891",
     },
     "外交部": {
         "刘某杰": "https://code.xueersi.com/space/78145585",
