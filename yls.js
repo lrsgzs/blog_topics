@@ -45,3 +45,15 @@ var studios = {
         "他们的招人作品": ["天山之巅工作室第一期招聘", "https://code.xueersi.com/home/project/detail?lang=code&pid=39721435&version=webpy&form=webpy&langType=webpy"]
     }
 }
+
+var good_peoples = {
+    "黄金": {
+        "刘镕硕": ["https://code.xueersi.com/space/16944115", 5]
+    },
+    "黑铁": {
+        "空": ["#", 0]
+    },
+    "青铜": {
+        "空": ["#", 0]
+    }
+}
