@@ -51,7 +51,7 @@ var good_peoples = {
         "刘镕硕": ["https://code.xueersi.com/space/16944115", 5]
     },
     "黑铁": {
-        "巩佳宁": ["https://code.xueersi.com/space/19162616", 1]
+        "巩佳宁": ["https://code.xueersi.com/space/19162616", 2]
     },
     "青铜": {
         "空": ["#", 0]
