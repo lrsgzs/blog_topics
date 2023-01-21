@@ -28,6 +28,9 @@ var peoples = {
     "宣传部": {
         "周利贞": "https://code.xueersi.com/space/60177039",
     },
+    "娱乐部": {
+        "(空)": "#"
+    },
     "成员": {
         "杨云骢": "https://code.xueersi.com/space/12502420",
     }
