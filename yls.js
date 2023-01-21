@@ -6,7 +6,7 @@ var peoples = {
     "编程部 - Python部": {
         "周小荻": "https://code.xueersi.com/space/19776819",
         "杨欣儒": "https://code.xueersi.com/space/16074710",
-        "学委路童": "https://code.xueersi.com/space/53250345"
+        "学委路童": "https://code.xueersi.com/space/53250345",
     },
     "编程部 - C++部": {
         "空": "#",
@@ -16,6 +16,7 @@ var peoples = {
     },
     "编程部 - 跑酷部": {
         "盛翊展": "https://code.xueersi.com/space/60701655",
+        "孙嘉懿": "https://code.xueersi.com/space/4645227",
     },
     "编程部 - 改编部": {
         "覃恺阳": "https://code.xueersi.com/space/65456474",
